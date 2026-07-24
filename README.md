@@ -49,10 +49,9 @@ Soy un **Senior Software Engineer** con experiencia en el diseño e implementaci
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NahuelVergara&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelVergara&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NahuelVergara&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&show_icons=true&hide=contribs,issues&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelVergara&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&layout=default)
 
 ---
 
@@ -64,27 +63,21 @@ Aplicación web para gestionar y seguir tus libros favoritos. Permite registrar 
 - **Deploy**: https://reader-diary-woad.vercel.app
 - **Características**: CRUD completo, interfaz responsiva, diseño moderno
 
-#### [💼 Frontend Portfolio](https://github.com/NahuelVergara/frontend-portfolio)
-Portfolio profesional del lado del cliente con diseño moderno y responsivo. Showcase de proyectos y habilidades técnicas.
-- **Tecnologías**: JavaScript, React, Tailwind CSS, Vercel
-- **Deploy**: https://frontend-portfolio-omega-ruby.vercel.app
-- **Resultado**: Presentación visual de proyectos con landing page profesional
-
-#### [🔧 Backend Portfolio](https://github.com/NahuelVergara/backend-portfolio)
-Servidor API para gestionar datos del portfolio. Incluye endpoints para proyectos, experiencia y contacto.
-- **Tecnologías**: Node.js, Express, JavaScript
-- **Deploy**: https://backend-portfolio-vert.vercel.app
-- **Características**: API RESTful, validación de datos, gestión de recursos
+#### [🏢 WebResidencia](https://github.com/NahuelVergara/webresidencia)
+Plataforma web para gestión y consulta de información de residencias. Interfaz moderna y responsive.
+- **Tecnologías**: TypeScript, React, Node.js, Tailwind CSS
+- **Deploy**: https://webresidencia.vercel.app
+- **Características**: Dashboard intuitivo, búsqueda avanzada, actualización en tiempo real
 
 #### [🐾 PetConnect](https://github.com/NahuelVergara/petConnect)
 Plataforma colaborativa para conectar dueños de mascotas. Facilita networking entre amantes de los animales.
 - **Tecnologías**: TypeScript, React, Node.js, Base de datos
 - **Resultado**: Sistema de conexión y networking
 
-#### [📚 Cohorte4](https://github.com/NahuelVergara/Cohorte4)
-Proyecto educativo desarrollado como parte de formación profesional. Implementa conceptos avanzados de desarrollo web.
-- **Tecnologías**: JavaScript, HTML, CSS
-- **Enfoque**: Prácticas de desarrollo y buenas prácticas de código
+#### [🤖 BotGym](https://github.com/NahuelVergara/botgym)
+Bot inteligente para gestión y seguimiento de rutinas de ejercicio. Integración con plataformas de chat.
+- **Tecnologías**: Python, APIs, Machine Learning
+- **Características**: Personalización de rutinas, seguimiento de progreso, recordatorios automáticos
 
 ---
 
