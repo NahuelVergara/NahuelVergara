@@ -49,60 +49,61 @@ Soy un **Senior Software Engineer** con experiencia en el diseño e implementaci
 
 ### 📈 GitHub Stats
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NahuelVergara&show_icons=true&theme=dark&count_private=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelVergara&layout=compact&theme=dark)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NahuelVergara&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelVergara&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+</div>
 
 ---
 
 ### 🏆 Proyectos Destacados
 
-Aquí algunos de mis proyectos más relevantes:
+#### [📖 Reader Diary](https://github.com/NahuelVergara/reader-diary)
+Aplicación web para gestionar y seguir tus libros favoritos. Permite registrar libros leídos, calificaciones y reseñas personales.
+- **Tecnologías**: TypeScript, React, Node.js, Tailwind CSS
+- **Deploy**: https://reader-diary-woad.vercel.app
+- **Características**: CRUD completo, interfaz responsiva, diseño moderno
 
-#### [Nombre del Proyecto 1](link-al-repo)
-**Descripción breve del proyecto**
-- Tecnologías: Node.js, React, PostgreSQL
-- Resultado clave: Mejora de 40% en performance
-- Stars: ⭐⭐⭐⭐⭐
+#### [💼 Frontend Portfolio](https://github.com/NahuelVergara/frontend-portfolio)
+Portfolio profesional del lado del cliente con diseño moderno y responsivo. Showcase de proyectos y habilidades técnicas.
+- **Tecnologías**: JavaScript, React, Tailwind CSS, Vercel
+- **Deploy**: https://frontend-portfolio-omega-ruby.vercel.app
+- **Resultado**: Presentación visual de proyectos con landing page profesional
 
-#### [Nombre del Proyecto 2](link-al-repo)
-**Descripción breve del proyecto**
-- Tecnologías: Python, FastAPI, Docker
-- Resultado clave: Reducción de latencia en 50%
-- Stars: ⭐⭐⭐⭐
+#### [🔧 Backend Portfolio](https://github.com/NahuelVergara/backend-portfolio)
+Servidor API para gestionar datos del portfolio. Incluye endpoints para proyectos, experiencia y contacto.
+- **Tecnologías**: Node.js, Express, JavaScript
+- **Deploy**: https://backend-portfolio-vert.vercel.app
+- **Características**: API RESTful, validación de datos, gestión de recursos
 
-#### [Nombre del Proyecto 3](link-al-repo)
-**Descripción breve del proyecto**
-- Tecnologías: Vue.js, Node.js, MongoDB
-- Resultado clave: Sistema utilizado por 1000+ usuarios
+#### [🐾 PetConnect](https://github.com/NahuelVergara/petConnect)
+Plataforma colaborativa para conectar dueños de mascotas. Facilita networking entre amantes de los animales.
+- **Tecnologías**: TypeScript, React, Node.js, Base de datos
+- **Resultado**: Sistema de conexión y networking
+
+#### [📚 Cohorte4](https://github.com/NahuelVergara/Cohorte4)
+Proyecto educativo desarrollado como parte de formación profesional. Implementa conceptos avanzados de desarrollo web.
+- **Tecnologías**: JavaScript, HTML, CSS
+- **Enfoque**: Prácticas de desarrollo y buenas prácticas de código
 
 ---
 
 ### 📚 Experiencia & Educación
 
 **Experiencia Profesional**
-- 
+- 🎓 Student Software Design - En formación continua
 
 **Educación**
 - Técnico en Diseño de Software / Full Stack
 
 ---
 
-### 🌟 Open Source
+### 🌟 Destacados
 
-Contribuidor activo en proyectos open source:
-- 🔗 [Proyecto OSS 1](link)
-- 🔗 [Proyecto OSS 2](link)
-- 🔗 [Proyecto OSS 3](link)
-
----
-
-### 📖 Blog & Recursos
-
-Comparto conocimiento sobre arquitectura, desarrollo y best practices:
-- 📝 [Mi Blog](tu-blog-url)
-- 🎥 [Charlas técnicas](url-a-tus-charlas)
-- 📚 [Artículos publicados](url)
+- 💻 Desarrollador Full Stack con expertise en JavaScript/TypeScript
+- 🚀 Experiencia en despliegue en Vercel y entornos cloud
+- 📱 Especializado en aplicaciones web responsivas
+- 🎨 Diseño UI/UX con enfoque en experiencia del usuario
 
 ---
 
@@ -110,9 +111,8 @@ Comparto conocimiento sobre arquitectura, desarrollo y best practices:
 
 Estoy siempre abierto a colaborar en proyectos interesantes y compartir conocimiento.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](tu-linkedin)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-email)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=globe&logoColor=white)](tu-portfolio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:facundovergara79@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NahuelVergara)
 
 ---
 
