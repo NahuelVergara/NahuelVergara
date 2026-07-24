@@ -74,10 +74,11 @@ Plataforma colaborativa para conectar dueños de mascotas. Facilita networking e
 - **Tecnologías**: TypeScript, React, Node.js, Base de datos
 - **Resultado**: Sistema de conexión y networking
 
-#### [🤖 BotGym](https://github.com/NahuelVergara/botgym)
+#### [🤖 Bot-Gym](https://github.com/NahuelVergara/bot-gym)
 Bot inteligente para gestión y seguimiento de rutinas de ejercicio. Integración con plataformas de chat.
-- **Tecnologías**: Python, APIs, Machine Learning
+- **Tecnologías**: Python, APIs, Bot Framework
 - **Características**: Personalización de rutinas, seguimiento de progreso, recordatorios automáticos
+- **Estado**: Proyecto privado en desarrollo
 
 ---
 
