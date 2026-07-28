@@ -1,16 +1,16 @@
-# 👋 Hola, soy Nahuel Vergara
+# 👋 Hola, soy Facundo Vergara
 
-## Senior Software Engineer | Full Stack Developer
+## Junior Software Developer | Full Stack Developer
 
 ---
 
 ### 🚀 Acerca de mí
 
-Soy un **Senior Software Engineer** con experiencia en el diseño e implementación de sistemas escalables, arquitectura de software y liderazgo técnico. Me apasiona escribir código limpio, resolver problemas complejos y mentorizar a otros desarrolladores.
+Soy un **Junior Software Developer** con experiencia en el diseño e implementación de sistemas escalables, arquitectura de software y liderazgo técnico. Me apasiona escribir código limpio, resolver problemas complejos y mentorizar a otros desarrolladores.
 
-- 💼 **Rol**: Student Software Design
+- 💼 **Rol**: Student Software Developer
 - 🎯 **Enfoque**: Arquitectura de Software | Sistemas Distribuidos | Full Stack
-- 🌍 **Ubicación**: Argentina
+- 🌍 **Ubicación**: Argentina - Catamarca
 - 📧 **Contacto**: facundovergara79@gmail.com
 
 ---
@@ -85,7 +85,7 @@ Bot inteligente para gestión y seguimiento de rutinas de ejercicio. Integració
 ### 📚 Experiencia & Educación
 
 **Experiencia Profesional**
-- 🎓 Student Software Design - En formación continua
+- 🎓 Student Software Developer - En formación continua
 
 **Educación**
 - Técnico en Diseño de Software / Full Stack
