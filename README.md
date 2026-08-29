@@ -2,7 +2,7 @@
 
 ### Junior Software Developer · Full Stack
 
-📍 Catamarca, Argentina · 📧 [facundovergara79@gmail.com](mailto:facundovergara79@gmail.com) · 🔗 [GitHub](https://github.com/NahuelVergara)
+📍 Catamarca, Argentina · 📧 [facundovergara79@gmail.com](mailto:facundovergara79@gmail.com) ·
 
 ---
 
