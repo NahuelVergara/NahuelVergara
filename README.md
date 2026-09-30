@@ -62,13 +62,6 @@ Juniot Software Developer con foco en arquitectura de software, sistemas distrib
 
 ## Proyectos Destacados
 
-### [📖 Reader Diary](https://github.com/NahuelVergara/reader-diary)
-Aplicación web para gestionar y seguir libros favoritos, con registro de lecturas, calificaciones y reseñas personales.
-
-`TypeScript` `React` `Node.js` `Tailwind CSS` — [Demo](https://reader-diary-woad.vercel.app)
-
-**Características:** CRUD completo · interfaz responsiva · diseño moderno
-
 ### [🏢 WebResidencia](https://github.com/NahuelVergara/webresidencia)
 Plataforma web para gestión y consulta de información de residencias, con interfaz moderna y responsive.
 
